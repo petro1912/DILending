@@ -68,16 +68,19 @@ ActualUtilizationRatio <= 0.9 / 2.08 = ~0.432 (43.2%)
 
 In the above explanation, 1.2 refers to the collateralization ratio, that is, the amount of collateral required to borrow 1 unit of value.
 We can see the graph that shows relashion between total capital uitilization(actual utilization) and pool's utilization.
-<figure>
-    <figcaption style="font-weight: bold">Capital Utiliaztion Ratio by Pool's utilization (principal) </figcaption>
-    <img src='./utilizaion-graph.png' />    
-</figure>
+<p align="center">
+  <img src="https://github.com/petro1912/DILending/blob/main/utilization-graph.png" alt="Utilization Graph" width="640" height="540">
+</p>
+
+<p align="center">
+  <strong>Capital Utilization Ratio by Pool's utilization (principal)</strong>
+</p>
 
 
 In practice, borrowers lock up more collateral than the collateralization ratio to better secure their assets. 
 When utilization is 80%, value of total collaterals is 96% of principal and it is nearly about 50% of TVL. 
-So we can see that the actual capital utilization is at most 45% even when optimal rate is reached. 
-So if the utilization of lending is 80% in current lending protocols, it means that only 40% of the total capital are actually utilized.
+We can see that the actual capital utilization is at most 45% even when optimal rate is reached. 
+If the utilization of lending is 80% in current lending protocols, it means that only 40% of the total capital are actually utilized.
 
 ## DI Lending's Solution
 
