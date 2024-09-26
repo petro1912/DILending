@@ -102,5 +102,5 @@ This protocol addresses capital inefficiency by maximizing the use of idle asset
 
 ## DILending Diagram
 <p align="center">
-  <img src="https://github.com/petro1912/DILending/blob/main/Flowchart-dilending.png" alt="Utilization Graph" width="960" height="540">
+  <img src="https://github.com/petro1912/DILending/blob/main/Flowchart-dilending.png" alt="Utilization Graph" width="960" height="480">
 </p>
