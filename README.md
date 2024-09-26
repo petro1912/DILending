@@ -98,3 +98,8 @@ This protocol addresses capital inefficiency by maximizing the use of idle asset
 - **Capital Efficiency:** Idle liquidity is dynamically allocated to staking pools, maximizing the utilization of the platform’s capital and providing consistent returns.
 - **Staking-Enhanced Income:** Lenders and borrowers alike benefit from staking rewards, creating a more balanced and fair distribution of income in the system.
 - **Sustainable Growth:** By ensuring higher utilization rates and increasing returns for all parties, the protocol fosters a healthy, growing ecosystem.
+
+## DILending Diagram
+<p align="center">
+  <img src="https://github.com/petro1912/DILending/blob/main/Flowchart-dilending.png" alt="Utilization Graph" width="960" height="540">
+</p>
