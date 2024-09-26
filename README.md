@@ -15,7 +15,7 @@ This repository serves as the hub for the Next.js and Smart Contract(Solidity) p
 
 - [Frontend Repository: https://github.com/petro1912/DILendingXFI-Frontend](https://github.com/petro1912/DILendingXFI-Frontend) 
 - [Backend Repository: https://github.com/petro1912/DILendingXFI](https://github.com/petro1912/DILendingXFI)
-- [Backend Repository: https://github.com/petro1912/DILendingXFI](https://github.com/petro1912/DILendingXFI-Hardhat)
+- [Backend Repository: https://github.com/petro1912/DILendingXFI-Hardhat](https://github.com/petro1912/DILendingXFI-Hardhat)
 
 ## What is the major problem in current lending protocols?
 ### Introduction to DeFi Lending
